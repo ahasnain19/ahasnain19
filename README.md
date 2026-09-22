@@ -1,8 +1,7 @@
 <h1 align="center">Hi there👋, I'm Ali Hasnain</h1> 
 <img width="1000" height="350" alt="7d07a255678962d30d8717dcf5dbd266" src="https://github.com/user-attachments/assets/39df2ece-50db-430a-93ed-0a3fb6df5450" />
 
-
-<h3 align="center">Aspiring Software Developer | Enterprenuer , Building, Learning, and Improving</h3>
+<h3 align="center">Aspiring Software Developer & CyberSecurity professional  | Enterprenuer , Building, Learning, and Improving</h3>
 
 - 🔭 I’m currently working on [A job-recruiting company](https://hot-beans-jobs.base44.app/)
 
