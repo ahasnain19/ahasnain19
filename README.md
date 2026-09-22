@@ -30,7 +30,7 @@
 <p align="left">
 I got into computing from a young age through my love for video games, which eventually grew into an interest in coding, web development, and cybersecurity. I enjoy spending my free time working on projects, learning new technologies, and improving my programming skills.
 
-Outside of computing, I enjoy going out with friends and playing sports, especially football. Gaming is also a big part of my free time. I play a mix of competitive and story-driven games.
+Outside of computing, I like watching movies, series and animes (ive watched them from a young age),  I also enjoy going out with friends and playing sports, especially football. Gaming is also a big part of my free time. I play a mix of competitive and story-driven games.
 
 🎮 My main competitive game is Rocket League, where I’m currently Grand Champion 2 (GC2). It’s easily the game I’ve played the most and probably the one I enjoy the most.
 
