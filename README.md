@@ -13,6 +13,31 @@
 
 - ⚡ Fun fact **Ive never broken a bone in my life! (Hopefully i didnt jinx it now)**
 
+<table border="0">
+<tr>
+<td valign="middle">
+
+A little bit about me :
+
+</td>
+<td valign="top">
+
+<img src="https://github.com/user-attachments/assets/f011c9bf-3c2a-4a50-ab80-e2e44ab32c33" width="300">
+
+</td>
+</tr>
+</table>
+<p align="left">
+I got into computing from a young age through my love for video games, which eventually grew into an interest in coding, web development, and cybersecurity. I enjoy spending my free time working on projects, learning new technologies, and improving my programming skills.
+
+Outside of computing, I enjoy going out with friends and playing sports, especially football. Gaming is also a big part of my free time. I play a mix of competitive and story-driven games.
+
+🎮 My main competitive game is Rocket League, where I’m currently Grand Champion 2 (GC2). It’s easily the game I’ve played the most and probably the one I enjoy the most.
+
+I also play games like FIFA, Fortnite, Minecraft, and other online games. When I’m in the mood for a good story, I enjoy games such as God of War, Resident Evil, Cyberpunk 2077, and Ghost of Tsushima.
+
+Whether I’m coding, gaming, playing football, or hanging out with friends, I like learning new things, improving my skills, and having fun along the way.
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/ali-hasnain-1b3657397/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ali hasnain" height="30" width="40" /></a>
