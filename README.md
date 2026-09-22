@@ -13,14 +13,14 @@
 
 - ⚡ Fun fact **Ive never broken a bone in my life! (Hopefully i didnt jinx it now)**
 
-<table border="0">
+<table>
 <tr>
-<td valign="middle">
+<td align="left" style="border: 0; border-style: hidden;">
 
-A little bit about me :
+<h2> A little bit about me: </h2>
 
 </td>
-<td valign="top">
+<td align="right" style="border: 0; border-style: hidden;">
 
 <img src="https://github.com/user-attachments/assets/f011c9bf-3c2a-4a50-ab80-e2e44ab32c33" width="300">
 
